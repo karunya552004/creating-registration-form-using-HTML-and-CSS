@@ -1,0 +1,57 @@
+@media (min-width:375px) and (max-width:480px)
+{
+    body{
+        color: orangered;
+    }
+}
+@media (min-width:480px) and (max-width:768px)
+{
+    body{
+        color: darkred;
+    }
+}
+@media (min-width:768px) and (max-width:1024px)
+{
+    body{
+        color: tomato;
+    }
+}
+    
+
+{
+    body{
+        color: transparent;
+    }
+}
+input{
+    border: 1px solid black;
+    color: white;
+}
+#department{
+    width: 13.5%;
+}
+.for{
+    text-align: center;
+}
+.but{
+    text-align: center;
+    padding-left: 11%;
+}
+input:focus {
+    background-color: rgb(76, 74, 78);
+}
+button:hover
+{
+    background-color: brown;
+}
+body{
+    background-image: url(https://wallpaperswide.com/download/fish_form-wallpaper-2048x1536.jpg);
+    background-repeat: no-repeat;
+}
+h1{
+    text-align: center;
+}
+label{
+    padding-left:0%;
+    text-align: justify;
+}
